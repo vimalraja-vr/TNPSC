@@ -139,7 +139,7 @@ const Page: React.FC = () => {
                     rel="noopener noreferrer"
                     className="flex-1 text-center px-4 py-2 bg-blue-600 text-white font-medium rounded hover:bg-blue-700 transition"
                   >
-                    English Notification
+                    English Notification 1
                   </a>
                 </div>
               </div>
